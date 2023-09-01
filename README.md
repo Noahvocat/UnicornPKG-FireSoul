@@ -17,5 +17,7 @@ FireSoul is a repo for the UnicornPKG package manager on ComputerCraft.
 
 ### FireSoul
 **Description:** A useless package that just adds the repo again
+
 **Version:** 1.0.0
+
 **Published by:** Noahvocat, FireTech
