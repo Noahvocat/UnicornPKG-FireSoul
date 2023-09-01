@@ -6,7 +6,7 @@ FireSoul is a repo for the UnicornPKG package manager on ComputerCraft.
 ### You can add your own programs to the repo by creating a Programs Request issue in the issue tab of the GitHub repository.
 
 ### How do I get UnicornPKG?
-### You can get it on [the UnicornPKG GitHub repository](https://github.com/unicornpkg/libunicornpkg).
+### You can get it on [the UnicornPKG Wing GitHub repository](https://github.com/unicornpkg/wing).
 
 ### How do I add the repo?
 ### You can simply run the command
