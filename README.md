@@ -7,3 +7,6 @@ FlameSoul is a repo for the UnicornPKG package manager on ComputerCraft.
 
 ### How do I get UnicornPKG?
 ### You can get it on [the UnicornPKG GitHub repository](https://github.com/unicornpkg/libunicornpkg).
+
+### How do I add the repo?
+### You can simply run the command
