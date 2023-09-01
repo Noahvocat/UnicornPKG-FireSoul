@@ -1,5 +1,5 @@
-# FlameSoul
-FlameSoul is a repo for the UnicornPKG package manager on ComputerCraft.
+# FireSoul
+FireSoul is a repo for the UnicornPKG package manager on ComputerCraft.
 
 ## How To...
 ### How do I add my programs to it?
@@ -10,4 +10,4 @@ FlameSoul is a repo for the UnicornPKG package manager on ComputerCraft.
 
 ### How do I add the repo?
 ### You can simply run the command
-`pastebin get <code> /etc/unicorn/remotes/FlameSoul.txt`
+`pastebin get <code> /etc/unicorn/remotes/FireSoul.txt`
