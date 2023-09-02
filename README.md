@@ -12,6 +12,8 @@ FireSoul is a repo for the UnicornPKG package manager on ComputerCraft.
 ### You can simply run the command
 `pastebin get 13T7zcu6 /etc/unicorn/remotes/FireSoul.txt`
 
+### How do I report a package?
+### You simply create an issue with the tag Package Report
 
 ## Packages list
 
