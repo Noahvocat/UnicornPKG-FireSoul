@@ -15,6 +15,7 @@ FireSoul is a repo for the UnicornPKG package manager on ComputerCraft.
 ### How do I report a package?
 ### You simply create an issue with the tag Package Report
 
+## YOUR PACKAGES MUST BE KID FRIENDLY AND THEY SHOULD NOT HAVE ANY MALICIOUS CONTENT!
 ## Packages list
 
 ### FireSoul
